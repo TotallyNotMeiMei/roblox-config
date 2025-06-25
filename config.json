@@ -1,23 +1,25 @@
-{"Character1":{
-  "Skills": {
-    "Skill1": {
-      "UsableInGame": true,
-      "UsableFinisher": false
+{
+  "Character1": {
+    "Skills": {
+      "Skill1": {
+        "UsableInGame": true,
+        "UsableFinisher": false
+      },
+      "Skill2": {
+        "UsableInGame": true,
+        "UsableFinisher": false
+      },
+      "Skill3": {
+        "UsableInGame": true,
+        "UsableFinisher": false
+      },
+      "Skill4": {
+        "UsableInGame": true,
+        "UsableFinisher": true
+      }
     },
-    "Skill2": {
-      "UsableInGame": true,
-      "UsableFinisher": false
-    },
-    "Skill3": {
-      "UsableInGame": true,
-      "UsableFinisher": false
-    },
-    "Skill4": {
-      "UsableInGame": true,
-      "UsableFinisher": true
+    "M1s": {
+      "Combos": 4
     }
-  },
-  "M1s": {
-    "Combos": 4
   }
 }
