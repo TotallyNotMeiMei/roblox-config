@@ -1,0 +1,23 @@
+{
+  "Skills": {
+    "Skill1": {
+      "UsableInGame": true,
+      "UsableFinisher": false
+    },
+    "Skill2": {
+      "UsableInGame": true,
+      "UsableFinisher": false
+    },
+    "Skill3": {
+      "UsableInGame": true,
+      "UsableFinisher": false
+    },
+    "Skill4": {
+      "UsableInGame": true,
+      "UsableFinisher": false
+    }
+  },
+  "M1s": {
+    "Combos": 4
+  }
+}
