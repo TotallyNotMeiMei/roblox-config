@@ -1,4 +1,4 @@
-"Character1":{
+{"Character1":{
   "Skills": {
     "Skill1": {
       "UsableInGame": true,
@@ -20,4 +20,5 @@
   "M1s": {
     "Combos": 4
   }
+}
 }
