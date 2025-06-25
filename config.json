@@ -11,7 +11,7 @@
       },
       "Skill3": {
         "UsableInGame": true,
-        "UsableFinisher": false
+        "UsableFinisher": true
       },
       "Skill4": {
         "UsableInGame": true,
