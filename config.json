@@ -11,11 +11,10 @@
       },
       "Skill3": {
         "UsableInGame": true,
-        "UsableFinisher": true
+        "UsableFinisher": false
       },
       "Skill4": {
         "UsableInGame": true,
-        "UsableFinisher": true
       }
     },
     "M1s": {
