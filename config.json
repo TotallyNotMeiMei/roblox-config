@@ -14,7 +14,7 @@
     },
     "Skill4": {
       "UsableInGame": true,
-      "UsableFinisher": false
+      "UsableFinisher": true
     }
   },
   "M1s": {
